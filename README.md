@@ -160,9 +160,8 @@ obstacle-avoiding-robot-avr/
 ├── README.md       ← This file
 ├── LICENSE         ← MIT License
 └── images/
-    ├── robot_front.jpg
-    ├── robot_side.jpg
-    └── schematic.png
+    ├── robot_front.jpeg
+    ├── robot_back.jpeg
 ```
 
 ---
