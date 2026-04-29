@@ -12,6 +12,11 @@ Built as a final project for the Microprocessor Systems Lab at Military College 
 ![Demo](Demo.gif)
 ---
 
+## Photos
+
+![Robot Front View](images/robot_front.jpg)
+![Robot Back View](images/robot_back.jpg)
+
 ## Hardware Components
 
 | Component | Qty | Purpose |
