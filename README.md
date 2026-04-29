@@ -9,8 +9,7 @@ Built as a final project for the Microprocessor Systems Lab at Military College 
 
 ## Demo
 
-> *Add your robot photos or a short video GIF here*
-
+![Demo](Demo.gif)
 ---
 
 ## Hardware Components
