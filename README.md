@@ -3,7 +3,7 @@
 
 An autonomous mobile robot that uses an HC-SR04 ultrasonic sensor mounted on an SG90 servo motor to continuously scan its surroundings and make real-time navigation decisions without human input. All firmware is written in pure C using direct AVR register manipulation — no Arduino libraries used anywhere.
 
-Built as a final project for the Microprocessor Systems Lab at Military College of Signals, NUST (BEE 61-C, 2026).
+Built as a final project for the Microprocessor Systems Lab at Military College of Signals, NUST (BEE 61, March 2026).
 
 ---
 
