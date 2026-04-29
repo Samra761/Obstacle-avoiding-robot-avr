@@ -6,17 +6,18 @@ An autonomous mobile robot that uses an HC-SR04 ultrasonic sensor mounted on an 
 Built as a final project for the Microprocessor Systems Lab at Military College of Signals, NUST (BEE 61, March 2026).
 
 ---
-
 ## Demo
+<p align="center">
+  <img src="Demo.gif" width="500"/>
+</p>
 
-![Demo](Demo.gif)
 ---
 
 ## Photos
-
-![Robot Front View](images/robot_front.jpeg)
-![Robot Back View](images/robot_back.jpeg)
-
+<p align="center">
+  <img src="images/robot_front.jpeg" width="380"/>
+  <img src="images/robot_back.jpeg" width="380"/>
+</p>
 ## Hardware Components
 
 | Component | Qty | Purpose |
