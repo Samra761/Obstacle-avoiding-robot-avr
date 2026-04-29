@@ -14,8 +14,8 @@ Built as a final project for the Microprocessor Systems Lab at Military College 
 
 ## Photos
 
-![Robot Front View](images/robot_front.jpg)
-![Robot Back View](images/robot_back.jpg)
+![Robot Front View](images/robot_front.jpeg)
+![Robot Back View](images/robot_back.jpeg)
 
 ## Hardware Components
 
